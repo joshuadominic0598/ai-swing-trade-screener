@@ -2,8 +2,13 @@
 
 ### Turn technical noise into a swing-trade shortlist.
 
-[![Checks](https://github.com/joshuadominic0598/stock-tracker-swing-trades/actions/workflows/ci.yml/badge.svg)](https://github.com/joshuadominic0598/stock-tracker-swing-trades/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-Local_Workspace-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla_Frontend-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6.svg?logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Lightweight Charts](https://img.shields.io/badge/Lightweight_Charts-5.2.1-131722.svg?logo=tradingview&logoColor=white)](https://www.tradingview.com/lightweight-charts/)
+[![Ollama](https://img.shields.io/badge/Ollama-Optional_Local_AI-111111.svg?logo=ollama&logoColor=white)](https://ollama.com/)
 
 **See the market’s direction. Read bull/bear pressure. Find stocks where your green flags line up.**
 
